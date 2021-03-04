@@ -1,5 +1,5 @@
 baseurl = "https://vinotheque-st-denis.netlify.app/"
-disableLanguages = ["en-us"]
+disableLanguages = ["en"]
 googleAnalytics = ""
 summarylength = "20"
 theme = "vex-hugo"
