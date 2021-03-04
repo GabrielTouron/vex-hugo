@@ -11,7 +11,7 @@ banner:
     label: Accéder à la cave
     link: products
 features:
-  enable: false
+  enable: true
   title: Notre expertise
   image: images/bottle-draw.jpg
   left_side:
