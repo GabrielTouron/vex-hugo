@@ -8,7 +8,7 @@ banner:
   image: images/bottle.jpg
   button:
     enable: true
-    label: Browse All Products
+    label: Accéder à la cave
     link: products
 features:
   enable: true
