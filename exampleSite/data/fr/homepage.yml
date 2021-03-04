@@ -41,12 +41,15 @@ features:
       inventore?
 promo:
   enable: true
-  image: images/watch.png
-  title: Designed by professional , the benefit for creative gigs
-  content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia vel labore,
-    deleniti minima nisi, velit atque quaerat impedit ea maxime sunt accusamus at
-    obcaecati dolor iure iusto omnis quis eum. <br><br> Lorem ipsum dolor sit amet,
-    consectetur adipisicing elit. Facilis commodi odit, illo, qui aliquam dol
+  image: images/bottle-draw.jpg
+  title: Pour vos palais !
+  content: |-
+    Cave à vins, Épicerie fine,
+    Vins bio, biodynamie, nature
+    Champagne, Whisky, Rhum
+    Cafés, Thés, Miel, Confitures
+    Bières
+    Conserves artisanales, pâtes, rillettes, plats cuisinés...
 about_product:
   enable: true
   title: Why Choose Apple Watch
