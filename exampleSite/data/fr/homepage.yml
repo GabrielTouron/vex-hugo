@@ -12,13 +12,13 @@ banner:
     link: products
 features:
   enable: false
-  title: Ce qu'on propose
+  title: Notre expertise
   image: images/bottle-draw.jpg
   left_side:
   - title: Cave à vins
     icon: mdi:bottle-wine
     content: Vins bio
-  - title: Elegant Design
+  - title: Conseil
     icon: tf-ion-ios-bell-outline
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
       inventore?
