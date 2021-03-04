@@ -12,13 +12,12 @@ banner:
     link: products
 features:
   enable: true
-  title: Our Core Features
-  image: images/watch-2.png
+  title: Ce qu'on propose
+  image: images/bottle-draw.jpg
   left_side:
-  - title: Smooth Touch
-    icon: tf-ion-ios-alarm-outline
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
-      inventore?
+  - title: Cave à vins
+    icon: mdi:bottle-wine
+    content: Vins bio
   - title: Elegant Design
     icon: tf-ion-ios-bell-outline
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
