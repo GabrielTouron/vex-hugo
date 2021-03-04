@@ -5,7 +5,7 @@ description = "this is meta description"
 discount_price = "25.00"
 draft = true
 images = ["/images/bottle.jpg"]
-price = "30.00"
+price = ""
 sizes = []
 title = "Château de X"
 
