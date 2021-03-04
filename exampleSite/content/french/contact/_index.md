@@ -11,7 +11,7 @@ office:
 opennig_hour:
   title: Heures d'ouverture
   day_time:
-  - Fermé
+  - 'Lundi: Fermé'
   - 'Mardi: 10:00 – 18:00'
   - 'Mercredi: 10:00 – 18:00'
   - 'Jeudi: 10:00 – 18:00'
