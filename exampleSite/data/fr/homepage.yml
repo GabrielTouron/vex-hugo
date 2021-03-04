@@ -5,7 +5,7 @@ banner:
   content: Ce monde n'est pas bon, sans vin, sans échanson, sans la flûte qui joue
     une douce chanson, car j'ai beau regarder les choses de ce monde, je ne vois rien,
     hormis la joie et la boisson. Omar Khayyân
-  image: images/watch.png
+  image: images/bottle.jpg
   button:
     enable: true
     label: Browse All Products
