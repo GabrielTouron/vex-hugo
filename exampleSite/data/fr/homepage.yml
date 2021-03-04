@@ -20,7 +20,7 @@ features:
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
       inventore?
   - title: Conseil
-    icon: tf-ion-ios-bell-outline
+    icon: ''
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
       inventore?
   - title: Easy Pricing
