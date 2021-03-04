@@ -2,7 +2,7 @@
 - id: add_to_cart
   translation: Ajouter au panier
 - id: send
-  translation: Send Now
+  translation: Envoyer
 - id: subscribe
   translation: Subscribe
 - id: read_more
