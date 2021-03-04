@@ -52,7 +52,7 @@ promo:
     Bières
     Conserves artisanales, pâtes, rillettes, plats cuisinés...
 about_product:
-  enable: true
+  enable: false
   title: Why Choose Apple Watch
   items:
   - image: images/showcase/showcase-4.png
@@ -75,7 +75,7 @@ about_product:
       link: "#"
 products:
   enable: true
-  title: Checkout Our All Products
+  title: Voir tous nos produits
 subscription:
   enable: true
   bg_image: images/call-to-action.jpg
