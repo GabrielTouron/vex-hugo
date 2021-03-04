@@ -28,8 +28,8 @@ features:
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
       inventore?
   right_side:
-  - title: Smooth Touch
-    icon: tf-ion-ios-alarm-outline
+  - title: Épicerie fine
+    icon: ''
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
       inventore?
   - title: Elegant Design
