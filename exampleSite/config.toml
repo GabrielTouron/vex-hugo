@@ -4,6 +4,7 @@ googleAnalytics = ""
 summarylength = "20"
 theme = "vex-hugo"
 title = "Vinotheque Saint-Denis"
+defaultContentLanguage = "fr"
 [Languages.en]
 contentDir = "content/english"
 copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
