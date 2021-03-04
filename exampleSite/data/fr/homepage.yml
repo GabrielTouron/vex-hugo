@@ -79,9 +79,9 @@ products:
 subscription:
   enable: true
   bg_image: images/call-to-action.jpg
-  title: Get Product Updates
+  title: Garder contact !
   content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-  placeholder: Your Email Address Here
+  placeholder: Votre adresse mail
 testimonial:
   enable: true
   title: Watch Review
