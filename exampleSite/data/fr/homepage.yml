@@ -11,7 +11,7 @@ banner:
     label: Accéder à la cave
     link: products
 features:
-  enable: true
+  enable: false
   title: Ce qu'on propose
   image: images/bottle-draw.jpg
   left_side:
