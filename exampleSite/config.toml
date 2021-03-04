@@ -35,11 +35,11 @@ name = "Privacy Policy"
 url = "privacy-policy"
 weight = 4
 [[menu.main]]
-name = "Home"
+name = "Accueil"
 url = "/"
 weight = 1
 [[menu.main]]
-name = "Products"
+name = "Produits"
 url = "products"
 weight = 2
 [[menu.main]]
