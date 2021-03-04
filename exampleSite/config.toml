@@ -27,11 +27,11 @@ name = "Contact"
 url = "contact"
 weight = 2
 [[menu.footer]]
-name = "Terms & Conditions"
+name = "Termes & Conditions"
 url = "terms-conditions"
 weight = 3
 [[menu.footer]]
-name = "Privacy Policy"
+name = "Politique de confidentialité"
 url = "privacy-policy"
 weight = 4
 [[menu.main]]
@@ -47,7 +47,7 @@ name = "Blog"
 url = "blog"
 weight = 3
 [[menu.main]]
-name = "Review"
+name = "Livre d'or"
 pre = "#"
 url = "testimonial"
 weight = 4
