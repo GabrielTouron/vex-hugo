@@ -1,6 +1,5 @@
 ---
-title: Our Latest Post
+title: Notre dernier article
 description: this is a meta description
-draft: true
 
 ---
