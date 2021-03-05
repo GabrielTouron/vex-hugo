@@ -9,4 +9,3 @@ sizes = []
 title = "Nos Produits"
 
 +++
-Lorem
