@@ -28,3 +28,4 @@ fields:
   label: sizes
 pages:
 - exampleSite/content/english/products/chateau-nobis.md
+- exampleSite/content/french/products/chateau-nobis.md
