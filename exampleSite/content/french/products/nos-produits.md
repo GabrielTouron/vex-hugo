@@ -1,13 +1,13 @@
 +++
 colors = []
-date = 2019-10-17T05:22:16Z
+date = ""
 description = "this is meta description"
-discount_price = "25.00"
+discount_price = ""
 draft = true
-images = ["/images/bottle.jpg"]
-price = "30.00"
+images = []
+price = ""
 sizes = []
-title = "Nos produits"
+title = "Nos Produits"
 
 +++
 Lorem
