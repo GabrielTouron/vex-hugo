@@ -30,7 +30,7 @@ sections:
   templates:
   - post
 - type: heading
-  label: Products
+  label: Produits
 - type: directory
   path: exampleSite/content/english/products
   label: Product (en)
