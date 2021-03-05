@@ -40,7 +40,7 @@ sections:
   - product
 - type: directory
   path: exampleSite/content/french/products
-  label: Products (fr)
+  label: Produits (fr)
   create: documents
   match: "**/*"
   templates:
