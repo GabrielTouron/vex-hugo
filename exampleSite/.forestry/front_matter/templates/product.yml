@@ -26,5 +26,3 @@ fields:
 - type: tag_list
   name: sizes
   label: sizes
-pages:
-- exampleSite/content/french/products/nos-produits-1.md
